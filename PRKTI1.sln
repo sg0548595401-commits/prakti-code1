@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRKTI1", "PRKTI1\PRKTI1.csproj", "{FD1927F5-E6E2-485F-9E30-3D8E35FDCC32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD1927F5-E6E2-485F-9E30-3D8E35FDCC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1927F5-E6E2-485F-9E30-3D8E35FDCC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1927F5-E6E2-485F-9E30-3D8E35FDCC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1927F5-E6E2-485F-9E30-3D8E35FDCC32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {145B4FEC-327B-44C9-AE93-34A5071CD01A}
+	EndGlobalSection
+EndGlobal
